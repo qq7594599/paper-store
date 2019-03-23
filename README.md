@@ -9,3 +9,6 @@ $ ionic cordova build ios --buildFlag="-UseModernBuildSystem=0"
 ``` shell
 $ ionic cordova resources
 ```
+
+## Android Studio
+Need remove `uses-sdk` section in Manifest.xml
